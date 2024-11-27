@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.h5
+*.json
+*.db
+
+# Logs
+*.log
+
+# TensorFlow checkpoints
+checkpoint
+*.ckpt
+
+# PyTorch checkpoints
+*.pt
+*.pth
+
+# Model files
+*.h5
+*.pb
+*.onnx
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+
+*.sublime-workspace
