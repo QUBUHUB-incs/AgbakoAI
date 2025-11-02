@@ -1,5 +1,0 @@
-# For Python dependencies
-pip install -r requirements.txt
-
-# For Node.js dependencies
-npm install
