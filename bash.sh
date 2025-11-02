@@ -1,3 +1,9 @@
+# Initialize parent module dependencies
+go mod tidy
+
+# Run the main program
+go run main.go
+
 npm init -y
 
 npm install express mysql2 bcryptjs jsonwebtoken dotenv
