@@ -16,3 +16,7 @@ go 1.16
 require Aexample.com/ambiguous/a/b v0.0.0-empty
 -- b/b.go --
 package b
+
+  module Aexample.com/ambiguous/a/b
+
+go 1.16
