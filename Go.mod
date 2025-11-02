@@ -1,3 +1,11 @@
+package main
+
+import "Aexample.com/ambiguous/a/b"
+
+func main() {
+    b.Hello()
+}
+
 pkg archive/zip, method (*ReadCloser) RegisterDecompressor(uint16, Decompressor)
 pkg archive/zip, method (*Reader) RegisterDecompressor(uint16, Decompressor)
 pkg archive/zip, method (*Writer) RegisterCompressor(uint16, Compressor)
